@@ -1,4 +1,4 @@
-server: 185.87.192.175:444 
+server: 158.78.192.157:444 
 auth: 123654789
 transport:
   type: udp
